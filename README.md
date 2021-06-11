@@ -56,10 +56,6 @@ source_data: dir containing .csv and .xlsx files
 
 modules: dir containing all .py files for custom functions
 
-## Results<a name="results"></a>
-
-Please find the results summarized in the article [here](https://medium.com/@rovertkm/federal-sbir-funding-analysis-nlp-narrative-5eeed1f6a48e).
-
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 The source data for this project originated from the SBIR website: https://www.sbir.gov/

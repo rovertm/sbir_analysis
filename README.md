@@ -18,8 +18,6 @@ The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
 
-## Overview:
-
 The objective of this notebook is to explore U.S. Government SBIR funding data through a top-down approach. Primary methods for analysis are natural language processing toolkits. 
 
 

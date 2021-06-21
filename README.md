@@ -5,9 +5,8 @@
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
-4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
-6. [View the Results](#view results)
+4. [Licensing, Authors, and Acknowledgements](#licensing)
+5. [View the Results](#view)
 
 ## Installation <a name="installation"></a>
 
@@ -62,6 +61,6 @@ The initial export from the site - for this project - was done in July 2020.
 
 All code is open for any and all usage.
 
-## View the Results<a name="view results"></a>
+## View the Results<a name="view"></a>
 
 View the Jupyter Notebook analysis through NBviewer, [click here.](https://nbviewer.jupyter.org/github/rovertm/sbir_analysis/blob/master/project_files/sbir_funding_overview.ipynb)

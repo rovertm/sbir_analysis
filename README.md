@@ -7,6 +7,7 @@
 3. [File Descriptions](#files)
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
+6. [View the Jupyter Notebook](#view results)
 
 ## Installation <a name="installation"></a>
 
@@ -60,3 +61,7 @@ The source data for this project originated from the SBIR website: https://www.s
 The initial export from the site - for this project - was done in July 2020.
 
 All code is open for any and all usage.
+
+## View the Results<a name="view results"></a>
+
+View the Jupyter Notebook analysis through NBviewer, [click here.](https://nbviewer.jupyter.org/github/rovertm/sbir_analysis/blob/master/project_files/sbir_funding_overview.ipynb)

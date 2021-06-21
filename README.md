@@ -7,7 +7,7 @@
 3. [File Descriptions](#files)
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
-6. [View the Jupyter Notebook](#view results)
+6. [View the Results](#view results)
 
 ## Installation <a name="installation"></a>
 

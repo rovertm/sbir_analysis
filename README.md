@@ -1,4 +1,4 @@
-# sbir_analysis
+# SBIR Award Data Analysis
 
 ### Table of Contents
 

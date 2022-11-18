@@ -63,4 +63,4 @@ All code is open for any and all usage.
 
 ## View the Results<a name="view"></a>
 
-View the Jupyter Notebook analysis through NBviewer, [click here.](https://nbviewer.jupyter.org/github/rovertm/sbir_analysis/blob/master/project_files/sbir_funding_overview.ipynb)
+View the [Jupyter Notebook analysis here.](https://github.com/rovertm/sbir_analysis/blob/master/project_files/sbir_funding_overview.ipynb)
